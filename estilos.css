@@ -1,8 +1,13 @@
 body{
-    background-color: rgb(18, 66, 66);
+    background-color: white;
 }
+h1.home{
+    
+    background-image: url(download.png) ;
+    background-size: 120px;
+    text-align: center;
 
-
+}
 ul.menu {
     margin: 0;
     padding:0;
@@ -29,7 +34,7 @@ li a {
     border-radius:5px;
 }
 li a:hover {
-    background: rgb(157, 255, 153);
+    background: rgb(153, 243, 255);
     color: #000; 
     border-color: #000;
 }
